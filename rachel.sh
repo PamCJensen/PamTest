@@ -1,4 +1,5 @@
 #Calculate reduced stats for ddata files at J= 100 c/bp
+# Stan chanched this  line
 for datafile in "$@"
 do
 echo $[datafile]
